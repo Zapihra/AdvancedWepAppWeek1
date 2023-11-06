@@ -1,5 +1,3 @@
-import "./styles.css";
-
 document.body.onload = main;
 
 function addElement(breed) {

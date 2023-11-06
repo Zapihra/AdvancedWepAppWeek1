@@ -29,7 +29,7 @@ h1 {
 
 .wiki-content {
   display: flex;
-  flex-flow: row;
+  flex-flow: row-reverse;
 }
   
 .img-container {
