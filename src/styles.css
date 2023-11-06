@@ -6,37 +6,37 @@ h1 {
   text-align: center;
 }
 
-img.wiki-img {
+.wiki-img {
   width: 100%;
 }
 
-div.wiki-item {
+.wiki-item {
   margin-right: 10px;
   margin-left: 10px;
   box-shadow: 3px 3px 20px black;
 }
 
-div.wiki-content {
+.wiki-content {
   padding: 10px;
 }
 
 @media only screen and (min-width: 600px) {
 
-div.container {
+.container {
   max-width: 960px;
   margin: 0 auto;
 }
 
-div.wiki-content {
+.wiki-content {
   display: flex;
   flex-flow: row;
 }
   
-div.img-container {
+.img-container {
   min-width: 50%;
   max-width: 50%;
 }
-div.wiki-text{
+.wiki-text{
   min-width: 50%;
   max-width: 50%;
 }
